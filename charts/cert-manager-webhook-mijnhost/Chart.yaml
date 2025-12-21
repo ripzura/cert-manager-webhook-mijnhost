@@ -4,4 +4,4 @@ description: A Helm chart for a cert-manager webhook for Mijn.host DNS
 name: cert-manager-webhook-mijnhost
 sources:
   - https://github.com/ripzura/cert-manager-webhook-mijnhost/charts
-version: 1.0.1
+version: 0.1.0
