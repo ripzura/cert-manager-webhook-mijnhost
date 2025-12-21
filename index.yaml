@@ -12,4 +12,15 @@ entries:
     urls:
     - https://github.com/ripzura/cert-manager-webhook-mijnhost/releases/download/cert-manager-webhook-mijnhost-1.0.1/cert-manager-webhook-mijnhost-1.0.1.tgz
     version: 1.0.1
-generated: "2025-12-19T17:54:36.3205259Z"
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2025-12-21T19:55:16.142870068Z"
+    description: A Helm chart for a cert-manager webhook for Mijn.host DNS
+    digest: 6c26371b6223bd72875b63a41033ada91c427bee81b46e5114b6d4468e2a84a9
+    name: cert-manager-webhook-mijnhost
+    sources:
+    - https://github.com/ripzura/cert-manager-webhook-mijnhost/charts
+    urls:
+    - https://github.com/ripzura/cert-manager-webhook-mijnhost/releases/download/cert-manager-webhook-mijnhost-0.1.0/cert-manager-webhook-mijnhost-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-12-21T19:55:16.142876901Z"
